@@ -2,35 +2,51 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { fetchReleases, assetPlatform, type Release } from "@/lib/releases";
+import {
+  fetchReleases,
+  findInstaller,
+  formatBytes,
+  type Release,
+  type ReleaseAsset,
+} from "@/lib/releases";
 
-// Hero CTA: links to the download page, and once the GitHub Releases API
-// responds, upgrades itself to show the latest version tag.
+// Hero CTA. Once the GitHub Releases API responds, the primary button becomes
+// a DIRECT download of the Inno Setup installer — the auto-updater handles
+// everything after that, so the installer is all the site needs to hand out.
 export function DownloadCta() {
-  const [latest, setLatest] = useState<Release | null>(null);
+  const [installer, setInstaller] = useState<{
+    release: Release;
+    asset: ReleaseAsset;
+  } | null>(null);
 
   useEffect(() => {
     fetchReleases().then((s) => {
-      if (s.kind === "ready") {
-        setLatest(s.releases.find((r) => !r.prerelease) ?? s.releases[0]);
-      }
+      if (s.kind === "ready") setInstaller(findInstaller(s.releases));
     });
   }, []);
 
-  const hasWindowsBuild =
-    latest?.assets.some((a) => assetPlatform(a.name) === "windows") ?? false;
-
   return (
-    <div className="flex flex-wrap items-center gap-4">
-      <Link href="/download/" className="btn-solid">
-        ↓{" "}
-        {latest
-          ? `Download ${latest.tag_name}${hasWindowsBuild ? " · Windows" : ""}`
-          : "Download · Windows"}
-      </Link>
-      <Link href="/compatibility/" className="btn-outline">
-        Compatibility list
-      </Link>
+    <div>
+      <div className="flex flex-wrap items-center gap-4">
+        {installer ? (
+          <a href={installer.asset.browser_download_url} className="btn-solid">
+            ↓ Download {installer.release.tag_name} · Windows
+          </a>
+        ) : (
+          <Link href="/download/" className="btn-solid">
+            ↓ Download · Windows
+          </Link>
+        )}
+        <Link href="/compatibility/" className="btn-outline">
+          Compatibility list
+        </Link>
+      </div>
+      {installer && (
+        <p className="tech-sm mt-3 text-muted">
+          {installer.asset.name} · {formatBytes(installer.asset.size)} · installs once,
+          auto-updates itself
+        </p>
+      )}
     </div>
   );
 }

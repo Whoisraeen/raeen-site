@@ -3,12 +3,14 @@
 import { useEffect, useState } from "react";
 import {
   fetchReleases,
+  findInstaller,
   assetPlatform,
   formatBytes,
   formatDate,
   REPO_URL,
   type Platform,
   type Release,
+  type ReleaseAsset,
   type ReleasesState,
 } from "@/lib/releases";
 
@@ -77,6 +79,33 @@ function ReleaseCard({ release, latest }: { release: Release; latest: boolean })
           className="tech-sm mt-4 inline-block text-muted transition-colors hover:text-accent"
         >
           → Full release notes on GitHub
+        </a>
+      </div>
+    </div>
+  );
+}
+
+function InstallerHero({ release, asset }: { release: Release; asset: ReleaseAsset }) {
+  return (
+    <div className="panel ticks" style={{ borderWidth: 2 }}>
+      <div className="panel-title">
+        <span>RECOMMENDED — WINDOWS INSTALLER</span>
+        <span>{release.tag_name}</span>
+      </div>
+      <div className="flex flex-col gap-6 p-6 sm:p-8 lg:flex-row lg:items-center lg:justify-between">
+        <div>
+          <h2 className="display text-3xl">ONE INSTALLER, THEN NEVER AGAIN</h2>
+          <p className="mt-3 max-w-lg text-sm leading-relaxed text-muted">
+            Run the setup once — Raeen&rsquo;s built-in auto-updater keeps you on the latest
+            build from then on. Per-user install, no admin rights needed.
+          </p>
+          <p className="tech-sm mt-4 text-muted">
+            {asset.name} · {formatBytes(asset.size)} ·{" "}
+            {asset.download_count.toLocaleString()} downloads
+          </p>
+        </div>
+        <a href={asset.browser_download_url} className="btn-solid shrink-0 text-base">
+          ↓ Download for Windows
         </a>
       </div>
     </div>
@@ -152,8 +181,11 @@ export function ReleaseList() {
     );
   }
 
+  const installer = findInstaller(state.releases);
+
   return (
     <div className="grid gap-5">
+      {installer && <InstallerHero release={installer.release} asset={installer.asset} />}
       {state.releases.map((r, i) => (
         <ReleaseCard key={r.tag_name} release={r} latest={i === 0} />
       ))}

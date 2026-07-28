@@ -42,6 +42,25 @@ export async function fetchReleases(): Promise<ReleasesState> {
   }
 }
 
+// The main repo's Inno Setup script emits `Raeen-{version}-Setup.exe`
+// (installer/raeen.iss, OutputBaseFilename). The installer is the only thing
+// users need from the site — the built-in auto-updater takes over from there.
+export function findInstaller(
+  releases: Release[],
+): { release: Release; asset: ReleaseAsset } | null {
+  const isInstaller = (n: string) => /setup.*\.exe$|-setup\.exe$/i.test(n);
+  for (const stableOnly of [true, false]) {
+    for (const r of releases) {
+      if (stableOnly && r.prerelease) continue;
+      const asset =
+        r.assets.find((a) => isInstaller(a.name)) ??
+        (!stableOnly ? r.assets.find((a) => /\.exe$/i.test(a.name)) : undefined);
+      if (asset) return { release: r, asset };
+    }
+  }
+  return null;
+}
+
 export type Platform = "windows" | "linux" | "macos" | "other";
 
 export function assetPlatform(name: string): Platform {
