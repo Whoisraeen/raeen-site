@@ -1,23 +1,89 @@
 @import "tailwindcss";
 
+/* ── Realities ─────────────────────────────────────────────────────────
+   lab      — paper white, ink black, signal red (default)
+   cyber    — near-black, phosphor mint, techno display face
+   blueprint— ink-on-white drafting blue, serif display face          */
+
 :root {
-  --background: #05060b;
-  --foreground: #e7e9f2;
-  --muted: #8b90a7;
-  --accent: #4f7cff;
-  --accent-2: #9f6bff;
-  --accent-3: #22d3ee;
-  --card: rgba(255, 255, 255, 0.035);
-  --card-border: rgba(255, 255, 255, 0.09);
+  --bg: #edece7;
+  --bg-soft: #f7f6f2;
+  --fg: #111110;
+  --muted: #63625a;
+  --line: rgba(17, 17, 16, 0.22);
+  --line-strong: #111110;
+  --accent: #e03a1e;
+  --panel-title-bg: #111110;
+  --panel-title-fg: #f7f6f2;
+  --grid-color: rgba(17, 17, 16, 0.05);
+  --font-display: var(--font-geist-sans);
+  --display-tracking: -0.03em;
+  --display-weight: 700;
+
+  --st-perfect: #0c7c4d;
+  --st-playable: #33831f;
+  --st-ingame: #9c6d00;
+  --st-menus: #b35309;
+  --st-boots: #bd2c17;
+  --st-nothing: #a3123b;
+  --st-untested: #85847c;
+}
+
+[data-theme="cyber"] {
+  --bg: #040705;
+  --bg-soft: #081109;
+  --fg: #d2ffe4;
+  --muted: #63a683;
+  --line: rgba(108, 255, 176, 0.28);
+  --line-strong: #6cffb0;
+  --accent: #6cffb0;
+  --panel-title-bg: #6cffb0;
+  --panel-title-fg: #041108;
+  --grid-color: rgba(108, 255, 176, 0.06);
+  --font-display: var(--font-michroma);
+  --display-tracking: 0.02em;
+  --display-weight: 400;
+
+  --st-perfect: #3ee68b;
+  --st-playable: #7ce63e;
+  --st-ingame: #e6c53e;
+  --st-menus: #ff9a4d;
+  --st-boots: #ff6b52;
+  --st-nothing: #ff4d7e;
+  --st-untested: #5d8a72;
+}
+
+[data-theme="blueprint"] {
+  --bg: #f8f9fd;
+  --bg-soft: #ffffff;
+  --fg: #1c39a8;
+  --muted: #6a7cc4;
+  --line: rgba(28, 57, 168, 0.3);
+  --line-strong: #1c39a8;
+  --accent: #1c39a8;
+  --panel-title-bg: #1c39a8;
+  --panel-title-fg: #f8f9fd;
+  --grid-color: rgba(28, 57, 168, 0.07);
+  --font-display: var(--font-serif-display);
+  --display-tracking: -0.01em;
+  --display-weight: 600;
+
+  --st-perfect: #0c7c4d;
+  --st-playable: #33831f;
+  --st-ingame: #9c6d00;
+  --st-menus: #b35309;
+  --st-boots: #bd2c17;
+  --st-nothing: #a3123b;
+  --st-untested: #7787c4;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --color-background: var(--bg);
+  --color-foreground: var(--fg);
   --color-muted: var(--muted);
   --color-accent: var(--accent);
-  --color-accent-2: var(--accent-2);
-  --color-accent-3: var(--accent-3);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -27,92 +93,184 @@ html {
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background: var(--bg);
+  color: var(--fg);
   font-family: var(--font-geist-sans), system-ui, sans-serif;
+  transition: background 240ms ease, color 240ms ease;
 }
 
-/* Layered ambient backdrop: aurora blobs + faint grid, PS5-lobby vibes. */
+/* faint drafting grid over the whole page */
 .backdrop {
   position: fixed;
   inset: 0;
   z-index: -1;
-  overflow: hidden;
-  background:
-    radial-gradient(52rem 30rem at 12% -8%, rgba(79, 124, 255, 0.16), transparent 60%),
-    radial-gradient(46rem 28rem at 88% 4%, rgba(159, 107, 255, 0.13), transparent 60%),
-    radial-gradient(60rem 36rem at 50% 112%, rgba(34, 211, 238, 0.07), transparent 60%),
-    var(--background);
+  background-image:
+    linear-gradient(var(--grid-color) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-color) 1px, transparent 1px);
+  background-size: 48px 48px;
 }
 
-.backdrop::after {
+[data-theme="cyber"] .backdrop::after {
   content: "";
   position: absolute;
   inset: 0;
-  background-image:
-    linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
-  background-size: 56px 56px;
-  mask-image: radial-gradient(70rem 46rem at 50% 0%, black 30%, transparent 75%);
+  background: radial-gradient(60rem 40rem at 50% 10%, rgba(108, 255, 176, 0.05), transparent 70%);
 }
 
-.card {
-  background: var(--card);
-  border: 1px solid var(--card-border);
-  border-radius: 1rem;
-  backdrop-filter: blur(12px);
+/* ── type ── */
+.display {
+  font-family: var(--font-display), sans-serif;
+  font-weight: var(--display-weight);
+  letter-spacing: var(--display-tracking);
+  line-height: 1.02;
 }
 
-.card-hover {
-  transition: border-color 160ms ease, transform 160ms ease, background 160ms ease;
+.tech {
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
 }
 
-.card-hover:hover {
-  border-color: rgba(139, 158, 255, 0.35);
-  background: rgba(255, 255, 255, 0.055);
-  transform: translateY(-2px);
+.tech-sm {
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 9px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
 }
 
-.gradient-text {
-  background: linear-gradient(100deg, #dbe4ff 10%, var(--accent) 45%, var(--accent-2) 75%, var(--accent-3) 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
+.bracket::before {
+  content: "[ ";
+}
+.bracket::after {
+  content: " ]";
 }
 
-.btn-primary {
-  background: linear-gradient(120deg, var(--accent), var(--accent-2));
-  box-shadow:
-    0 0 0 1px rgba(255, 255, 255, 0.12) inset,
-    0 8px 30px rgba(79, 124, 255, 0.35);
-  transition: box-shadow 160ms ease, transform 160ms ease, filter 160ms ease;
+/* ── panels: bordered spec-sheet boxes with inverted title bars ── */
+.panel {
+  border: 1px solid var(--line-strong);
+  background: var(--bg-soft);
 }
 
-.btn-primary:hover {
-  transform: translateY(-1px);
-  filter: brightness(1.08);
-  box-shadow:
-    0 0 0 1px rgba(255, 255, 255, 0.18) inset,
-    0 10px 38px rgba(79, 124, 255, 0.5);
+.panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  background: var(--panel-title-bg);
+  color: var(--panel-title-fg);
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.6rem;
 }
 
-.btn-ghost {
-  border: 1px solid var(--card-border);
-  background: rgba(255, 255, 255, 0.03);
-  transition: border-color 160ms ease, background 160ms ease, transform 160ms ease;
+/* corner registration ticks */
+.ticks {
+  position: relative;
+}
+.ticks::before,
+.ticks::after {
+  content: "";
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  border-color: var(--line-strong);
+  border-style: solid;
+}
+.ticks::before {
+  top: -1px;
+  left: -1px;
+  border-width: 1px 0 0 1px;
+}
+.ticks::after {
+  bottom: -1px;
+  right: -1px;
+  border-width: 0 1px 1px 0;
 }
 
-.btn-ghost:hover {
-  border-color: rgba(139, 158, 255, 0.4);
-  background: rgba(255, 255, 255, 0.06);
-  transform: translateY(-1px);
+/* ── controls ── */
+.btn-solid,
+.btn-outline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 0.8rem 1.4rem;
+  border: 1px solid var(--line-strong);
+  transition: background 140ms ease, color 140ms ease, box-shadow 140ms ease;
+  cursor: pointer;
+}
+
+.btn-solid {
+  background: var(--line-strong);
+  color: var(--bg);
+}
+.btn-solid:hover {
+  box-shadow: 3px 3px 0 0 var(--accent);
+  transform: translate(-1px, -1px);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--fg);
+}
+.btn-outline:hover {
+  background: var(--line-strong);
+  color: var(--bg);
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  padding: 0.3rem 0.9rem;
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  background: var(--bg-soft);
+  transition: background 140ms ease, color 140ms ease;
+  cursor: pointer;
+}
+.pill:hover {
+  background: var(--line-strong);
+  color: var(--bg);
+}
+
+/* square node marker used on callout lines */
+.node {
+  width: 7px;
+  height: 7px;
+  background: var(--line-strong);
+  display: inline-block;
+}
+
+.hatch {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    var(--line) 0 1px,
+    transparent 1px 5px
+  );
 }
 
 .hairline {
   height: 1px;
-  background: linear-gradient(90deg, transparent, rgba(139, 158, 255, 0.35), transparent);
+  background: var(--line-strong);
 }
 
 ::selection {
-  background: rgba(79, 124, 255, 0.4);
+  background: var(--accent);
+  color: var(--bg);
+}
+
+input,
+select {
+  font-family: var(--font-geist-mono), monospace;
 }

@@ -22,19 +22,14 @@ export function DownloadCta() {
 
   return (
     <div className="flex flex-wrap items-center gap-4">
-      <Link
-        href="/download/"
-        className="btn-primary flex items-center gap-2.5 rounded-xl px-6 py-3.5 font-semibold text-white"
-      >
-        <svg viewBox="0 0 24 24" className="h-5 w-5 fill-current" aria-hidden>
-          <path d="M12 3v10.55l3.3-3.3 1.4 1.42L11 17.36l-5.7-5.7 1.4-1.4L10 13.54V3h2ZM5 19h14v2H5v-2Z" />
-        </svg>
+      <Link href="/download/" className="btn-solid">
+        ↓{" "}
         {latest
-          ? `Download ${latest.tag_name}${hasWindowsBuild ? " for Windows" : ""}`
-          : "Download for Windows"}
+          ? `Download ${latest.tag_name}${hasWindowsBuild ? " · Windows" : ""}`
+          : "Download · Windows"}
       </Link>
-      <Link href="/compatibility/" className="btn-ghost rounded-xl px-6 py-3.5 font-medium">
-        Check game compatibility
+      <Link href="/compatibility/" className="btn-outline">
+        Compatibility list
       </Link>
     </div>
   );
