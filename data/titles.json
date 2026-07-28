@@ -1,0 +1,4138 @@
+[
+ {
+  "name": "『Returnal』デジタルサウンドトラック",
+  "entries": [
+   {
+    "id": "PPSA02480",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "3D Billiards",
+  "entries": [
+   {
+    "id": "PPSA02800",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "3D Billiards - Pool and Snooker",
+  "entries": [
+   {
+    "id": "PPSA02799",
+    "region": "Europe"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "A Little Lily Princess",
+  "entries": [
+   {
+    "id": "PPSA03821",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03822",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Active Neurons 3",
+  "entries": [
+   {
+    "id": "PPSA02793",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02792",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Aerial_Knight's Never Yield",
+  "entries": [
+   {
+    "id": "PPSA02709",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02710",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Alba: A Wildlife Adventure",
+  "entries": [
+   {
+    "id": "PPSA03133",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03132",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Aliens",
+  "entries": [
+   {
+    "id": "PPSA02751",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02750",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Angels with Scaly Wings",
+  "entries": [
+   {
+    "id": "PPSA03086",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03087",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Anodyne 2: Return to Dust",
+  "entries": [
+   {
+    "id": "PPSA02700",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02703",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02701",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Apple TV",
+  "entries": [
+   {
+    "id": "PPSA01781",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Assassin's Creed® Valhalla",
+  "entries": [
+   {
+    "id": "PPSA01490",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01532",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01533",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01504",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01491",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "ASTRO's PLAYROOM",
+  "entries": [
+   {
+    "id": "PPSA01325",
+    "region": "Int'l"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+  "entries": [
+   {
+    "id": "PPSA02094",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02093",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Auto Chess",
+  "entries": [
+   {
+    "id": "PPSA02916",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02917",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Back 4 Blood: Ultimate Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA01696",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01695",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "BALAN WONDERWORLD",
+  "entries": [
+   {
+    "id": "PPSA02058",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02059",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01890",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02057",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "BALAN WONDERWORLD Demo",
+  "entries": [
+   {
+    "id": "PPSA02447",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02448",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02445",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02446",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Battlefield™ 2042 Ultimate Edition PS4™ & PS5™",
+  "entries": [
+   {
+    "id": "PPSA01465",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01464",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Bibi & Tina at the Horse Farm",
+  "entries": [
+   {
+    "id": "PPSA02603",
+    "region": "Europe"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Bibi & Tina at the horse farm",
+  "entries": [
+   {
+    "id": "PPSA02604",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "BIOHAZARD VILLAGE",
+  "entries": [
+   {
+    "id": "PPSA01558",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "BIOHAZARD VILLAGE Z Version",
+  "entries": [
+   {
+    "id": "PPSA01560",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Borderlands® 3",
+  "entries": [
+   {
+    "id": "PPSA01463",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01462",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Bridge Constructor: The Walking Dead",
+  "entries": [
+   {
+    "id": "PPSA02346",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02835",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02347",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Bugsnax",
+  "entries": [
+   {
+    "id": "PPSA01503",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01540",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01539",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01502",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Buster's Quest: Trials of Hamsterdam",
+  "entries": [
+   {
+    "id": "PPSA02379",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02380",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02378",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "C14 Dating",
+  "entries": [
+   {
+    "id": "PPSA02937",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02938",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Call of Duty®: Black Ops Cold War",
+  "entries": [
+   {
+    "id": "PPSA02050",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02051",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02053",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02052",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01628",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Call of the Sea",
+  "entries": [
+   {
+    "id": "PPSA01546",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01545",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Can't Drive This",
+  "entries": [
+   {
+    "id": "PPSA02743",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02784",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02782",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02744",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Chicory: A Colorful Tale",
+  "entries": [
+   {
+    "id": "PPSA03040",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03039",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Chivalry 2",
+  "entries": [
+   {
+    "id": "PPSA02184",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02183",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Chivalry 2 Beta",
+  "entries": [
+   {
+    "id": "PPSA03346",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03423",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03422",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA03345",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Chivalry 2 Special Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA03451",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03450",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Concept Destruction",
+  "entries": [
+   {
+    "id": "PPSA02277",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02298",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02278",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Control Ultimate Edition",
+  "entries": [
+   {
+    "id": "PPSA01951",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01954",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01949",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Crash Bandicoot 4: It's About Time",
+  "entries": [
+   {
+    "id": "PPSA02433",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02435",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02436",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02432",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Crimsonland",
+  "entries": [
+   {
+    "id": "PPSA02753",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02752",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Cris Tales",
+  "entries": [
+   {
+    "id": "PPSA02123",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03990",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02121",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "CrossKrush",
+  "entries": [
+   {
+    "id": "PPSA02717",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02718",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "CRSED",
+  "entries": [
+   {
+    "id": "PPSA01965",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02189",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01966",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Crunchyroll",
+  "entries": [
+   {
+    "id": "PPSA01926",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Cyber Shadow",
+  "entries": [
+   {
+    "id": "PPSA01883",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01882",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Dark Alliance",
+  "entries": [
+   {
+    "id": "PPSA02681",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02682",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02680",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Dark Alliance Deluxe Edition",
+  "entries": [
+   {
+    "id": "PPSA02683",
+    "region": "Asia"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "DARQ Complete Edition",
+  "entries": [
+   {
+    "id": "PPSA02893",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02892",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Dead by Daylight",
+  "entries": [
+   {
+    "id": "PPSA02049",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02048",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Death Tales",
+  "entries": [
+   {
+    "id": "PPSA02659",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02658",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "DEATHLOOP Deluxe Edition",
+  "entries": [
+   {
+    "id": "PPSA01670",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03062",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02532",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02533",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01302",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Demon's Souls",
+  "entries": [
+   {
+    "id": "PPSA01341",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01340",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01339",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01342",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Demon's Souls Original Soundtrack",
+  "entries": [
+   {
+    "id": "PPSA01690",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01689",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01678",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01691",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Destiny 2",
+  "entries": [
+   {
+    "id": "PPSA02410",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02411",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02409",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Destruction AllStars (TM)",
+  "entries": [
+   {
+    "id": "PPSA01294",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Destruction AllStars™",
+  "entries": [
+   {
+    "id": "PPSA02630",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02714",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02713",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02712",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Devil May Cry 5 Special Edition",
+  "entries": [
+   {
+    "id": "PPSA01443",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01444",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01442",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "DIRT5",
+  "entries": [
+   {
+    "id": "PPSA01551",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01552",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Disco Elysium",
+  "entries": [
+   {
+    "id": "PPSA03329",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03268",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Donuts'n'Justice",
+  "entries": [
+   {
+    "id": "PPSA03760",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03761",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Dreaming Sarah",
+  "entries": [
+   {
+    "id": "PPSA02928",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02929",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Drowning",
+  "entries": [
+   {
+    "id": "PPSA03592",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03591",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Dungeons & Bombs",
+  "entries": [
+   {
+    "id": "PPSA02945",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02944",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Eight Dragons",
+  "entries": [
+   {
+    "id": "PPSA02601",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02600",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Enlisted",
+  "entries": [
+   {
+    "id": "PPSA03051",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03053",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA03052",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Escape from Life Inc",
+  "entries": [
+   {
+    "id": "PPSA02919",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02918",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Evil Inside",
+  "entries": [
+   {
+    "id": "PPSA02508",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03572",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03571",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02507",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Exodemon",
+  "entries": [
+   {
+    "id": "PPSA03157",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03494",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA03156",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "F1® 2021: Deluxe Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA02696",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02697",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Family Mysteries 3: Criminal Mindset",
+  "entries": [
+   {
+    "id": "PPSA03842",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03843",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Far Cry 6 - Digital Ultimate Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA01877",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Far Cry 6 Ultimate Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA01870",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01874",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01875",
+    "region": "Europe"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Far Cry 6: Ultimate Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA01876",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "FIFA 21",
+  "entries": [
+   {
+    "id": "PPSA01326",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01430",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01431",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01432",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01327",
+    "region": "Americas"
+   },
+   {
+    "id": "PPSA01433",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "FINAL FANTASY VII REMAKE",
+  "entries": [
+   {
+    "id": "PPSA01911",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01773",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01637",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01903",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "FINAL FANTASY XIV Online",
+  "entries": [
+   {
+    "id": "PPSA02955",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02862",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02954",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "FINAL FANTASY® VII REMAKE INTERGRADE Digital Artbook",
+  "entries": [
+   {
+    "id": "PPSA03237",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03238",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03225",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "FINAL FANTASY® VII REMAKE INTERGRADE Digital Mini Soundtrack",
+  "entries": [
+   {
+    "id": "PPSA03248",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03250",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03249",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "FINAL FANTASY® VII REMAKE INTERGRADE デジタルアートブック",
+  "entries": [
+   {
+    "id": "PPSA03224",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "FINAL FANTASY® VII REMAKE INTERGRADE デジタルミニサウンドトラック",
+  "entries": [
+   {
+    "id": "PPSA03247",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Fortnite",
+  "entries": [
+   {
+    "id": "PPSA01923",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01922",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Freddy Spaghetti",
+  "entries": [
+   {
+    "id": "PPSA02654",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02657",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02655",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Funimation",
+  "entries": [
+   {
+    "id": "PPSA02038",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Genshin Impact",
+  "entries": [
+   {
+    "id": "PPSA02584",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02585",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02562",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Go!Go!5次元GAME ネプテューヌ re★Verse",
+  "entries": [
+   {
+    "id": "PPSA01565",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Godfall",
+  "entries": [
+   {
+    "id": "PPSA01349",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01347",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "GoonyaFighter JigglyHapticEdition",
+  "entries": [
+   {
+    "id": "PPSA02010",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02011",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01395",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02009",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "GraviFire",
+  "entries": [
+   {
+    "id": "PPSA02899",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02898",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Guilty Gear -Strive-",
+  "entries": [
+   {
+    "id": "PPSA02257",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02181",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "GUILTY GEAR -STRIVE-",
+  "entries": [
+   {
+    "id": "PPSA02330",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02180",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Guilty Gear -Strive- Open Beta",
+  "entries": [
+   {
+    "id": "PPSA02568",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02268",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "GUILTY GEAR -STRIVE- Open Beta",
+  "entries": [
+   {
+    "id": "PPSA02576",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02267",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Gutwhale",
+  "entries": [
+   {
+    "id": "PPSA03727",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03730",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03728",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Haven",
+  "entries": [
+   {
+    "id": "PPSA01562",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02467",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01563",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01561",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Heal (ヒール)",
+  "entries": [
+   {
+    "id": "PPSA03372",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Heal: Console Edition",
+  "entries": [
+   {
+    "id": "PPSA03370",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03371",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Hellbreachers",
+  "entries": [
+   {
+    "id": "PPSA03255",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03256",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03254",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Hentai vs. Evil",
+  "entries": [
+   {
+    "id": "PPSA03566",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03567",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03565",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "HITMAN 3",
+  "entries": [
+   {
+    "id": "PPSA01769",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02125",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01768",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Hood: Outlaws & Legends",
+  "entries": [
+   {
+    "id": "PPSA02169",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02170",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "HOT WHEELS UNLEASHED™ - Ultimate Stunt Edition",
+  "entries": [
+   {
+    "id": "PPSA02325",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02324",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Hunting Simulator 2",
+  "entries": [
+   {
+    "id": "PPSA01899",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02012",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01900",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Immortals Fenyx Rising ™",
+  "entries": [
+   {
+    "id": "PPSA01506",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01509",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01510",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01508",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01507",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Immortals Fenyx Rising ™ - Demo",
+  "entries": [
+   {
+    "id": "PPSA02587",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02707",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02708",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02699",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02588",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "In rays of the Light",
+  "entries": [
+   {
+    "id": "PPSA02903",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02902",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Infestor",
+  "entries": [
+   {
+    "id": "PPSA03559",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03561",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03560",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Infliction: Extended Cut",
+  "entries": [
+   {
+    "id": "PPSA02689",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02688",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "It Takes Two",
+  "entries": [
+   {
+    "id": "PPSA02343",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02342",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "JUDGE EYES：死神の遺言 Remastered",
+  "entries": [
+   {
+    "id": "PPSA01852",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Judgment",
+  "entries": [
+   {
+    "id": "PPSA02740",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02739",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Just Dance® 2021",
+  "entries": [
+   {
+    "id": "PPSA01408",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01409",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "JYDGE",
+  "entries": [
+   {
+    "id": "PPSA02318",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02317",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Kena: Bridge of Spirits PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA01802",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01746",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "King Oddball",
+  "entries": [
+   {
+    "id": "PPSA02148",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02147",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Kingdom of Arcadia",
+  "entries": [
+   {
+    "id": "PPSA03293",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03295",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03294",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA03292",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Ladders by POWGI",
+  "entries": [
+   {
+    "id": "PPSA03022",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03070",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03023",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Legends of Talia: Arcadia",
+  "entries": [
+   {
+    "id": "PPSA02972",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02974",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02973",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Life is Strange: True Colors - Ultimate Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA02046",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Life is Strange: True Colors™",
+  "entries": [
+   {
+    "id": "PPSA02047",
+    "region": "Europe"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "LOST JUDGMENT：裁かれざる記憶 デジタルデラックス　PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA03265",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Madden NFL 21",
+  "entries": [
+   {
+    "id": "PPSA01344",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01343",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Maid of Sker",
+  "entries": [
+   {
+    "id": "PPSA02966",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02965",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "MAIDEN",
+  "entries": [
+   {
+    "id": "PPSA01859",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01857",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01856",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01858",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Maneater",
+  "entries": [
+   {
+    "id": "PPSA01862",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01861",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Manifold Garden",
+  "entries": [
+   {
+    "id": "PPSA02779",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03159",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02778",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Maquette",
+  "entries": [
+   {
+    "id": "PPSA01832",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01834",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01833",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01831",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Marvel's Avengers",
+  "entries": [
+   {
+    "id": "PPSA01632",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01634",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01633",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01631",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Marvel's Spider-Man Remastered",
+  "entries": [
+   {
+    "id": "PPSA01468",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01469",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01470",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01472",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01471",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01467",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Marvel's Spider-Man: Miles Morales",
+  "entries": [
+   {
+    "id": "PPSA01417",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01460",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01461",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01419",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01418",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01411",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Merchant of the Skies",
+  "entries": [
+   {
+    "id": "PPSA03063",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03027",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Mighty Fight Federation",
+  "entries": [
+   {
+    "id": "PPSA03089",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02990",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Mighty Goose",
+  "entries": [
+   {
+    "id": "PPSA03463",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03461",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03458",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA03464",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Minecraft",
+  "entries": [
+   {
+    "id": "PPSA17221",
+    "region": "Americas"
+   }
+  ],
+  "status": "ingame",
+  "notes": "Reaches the interactive main menu with working DualSense input, loads persisted worlds from save data, and renders in-world textured 3D terrain plus HUD at ~56 FPS. Recognizable, not correct: some render features (extra render targets, fast clears) are still skipped.",
+  "tested": "2026-07"
+ },
+ {
+  "name": "MLB® The Show™ 21",
+  "entries": [
+   {
+    "id": "PPSA01416",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+  "entries": [
+   {
+    "id": "PPSA02451",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01658",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02396",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Monster Energy Supercross - The Official Videogame 4",
+  "entries": [
+   {
+    "id": "PPSA01608",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02952",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01607",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Monster Truck Championship",
+  "entries": [
+   {
+    "id": "PPSA01901",
+    "region": "Europe"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Monster Truck Championship Rebel Hunter Edition",
+  "entries": [
+   {
+    "id": "PPSA01902",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Mortal Kombat 11",
+  "entries": [
+   {
+    "id": "PPSA01619",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01617",
+    "region": "Americas"
+   },
+   {
+    "id": "PPSA01618",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Mortal Shell",
+  "entries": [
+   {
+    "id": "PPSA02867",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02904",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02868",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "MOTOGP™21",
+  "entries": [
+   {
+    "id": "PPSA02377",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03213",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02376",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "MXGP 2020 - The Official Motocross Videogame",
+  "entries": [
+   {
+    "id": "PPSA01646",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01645",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "NBA 2K21",
+  "entries": [
+   {
+    "id": "PPSA01388",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01387",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Necromunda: Hired Gun",
+  "entries": [
+   {
+    "id": "PPSA02449",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02450",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Neon Chrome Overseer Edition",
+  "entries": [
+   {
+    "id": "PPSA02623",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02622",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Neptunia ReVerse",
+  "entries": [
+   {
+    "id": "PPSA02763",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02721",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Netflix",
+  "entries": [
+   {
+    "id": "PPSA01615",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01614",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Nioh 2 Remastered",
+  "entries": [
+   {
+    "id": "PPSA02488",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02462",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02489",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Nioh 2 Remastered - The Complete Edition",
+  "entries": [
+   {
+    "id": "PPSA02486",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02463",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02487",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Nioh Remastered - The Complete Edition",
+  "entries": [
+   {
+    "id": "PPSA02482",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02464",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02484",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "No Man's Sky",
+  "entries": [
+   {
+    "id": "PPSA01412",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02112",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02111",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02110",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Observer: System Redux",
+  "entries": [
+   {
+    "id": "PPSA02117",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02118",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Oddworld: Soulstorm",
+  "entries": [
+   {
+    "id": "PPSA02259",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01590",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "One Escape",
+  "entries": [
+   {
+    "id": "PPSA03239",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03242",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03240",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Operation Tango",
+  "entries": [
+   {
+    "id": "PPSA03315",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03243",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Out Of Space: Couch Edition",
+  "entries": [
+   {
+    "id": "PPSA02351",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02350",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Outbreak",
+  "entries": [
+   {
+    "id": "PPSA02553",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02552",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Outbreak Endless Nightmares",
+  "entries": [
+   {
+    "id": "PPSA02555",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02554",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Outbreak Epidemic",
+  "entries": [
+   {
+    "id": "PPSA02545",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02544",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Outbreak Lost Hope",
+  "entries": [
+   {
+    "id": "PPSA02549",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02548",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Outbreak The New Nightmare",
+  "entries": [
+   {
+    "id": "PPSA02547",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02546",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Outbreak The Nightmare Chronicles",
+  "entries": [
+   {
+    "id": "PPSA02551",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02550",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "OUTRIDERS",
+  "entries": [
+   {
+    "id": "PPSA01779",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01977",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01780",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01778",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "OUTRIDERS - DEMO",
+  "entries": [
+   {
+    "id": "PPSA02284",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02286",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02285",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02283",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Overcooked! All You Can Eat",
+  "entries": [
+   {
+    "id": "PPSA01528",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01529",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Override 2: Super Mech League",
+  "entries": [
+   {
+    "id": "PPSA01908",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01907",
+    "region": "Americas"
+   },
+   {
+    "id": "PPSA02417",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "OVIVO",
+  "entries": [
+   {
+    "id": "PPSA03700",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03699",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Panda Hero Remastered",
+  "entries": [
+   {
+    "id": "PPSA02797",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02798",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "PING REDUX",
+  "entries": [
+   {
+    "id": "PPSA02979",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02978",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Pinkman+",
+  "entries": [
+   {
+    "id": "PPSA02934",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02935",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Planet Coaster",
+  "entries": [
+   {
+    "id": "PPSA01735",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01736",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Plex",
+  "entries": [
+   {
+    "id": "PPSA01935",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Poker Club",
+  "entries": [
+   {
+    "id": "PPSA01959",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01960",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Prime Video",
+  "entries": [
+   {
+    "id": "PPSA02081",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Puyo Puyo™ Tetris® 2",
+  "entries": [
+   {
+    "id": "PPSA01938",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01530",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01937",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Puyo Puyo™ Tetris® 2 Demo Version",
+  "entries": [
+   {
+    "id": "PPSA03230",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02329",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA03229",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Rabisco+",
+  "entries": [
+   {
+    "id": "PPSA03723",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03726",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03724",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Ratchet & Clank: Rift Apart",
+  "entries": [
+   {
+    "id": "PPSA01474",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01476",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01475",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01473",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Ratchet & Clank: Rift Apart Digital Deluxe Edition Bonus Content",
+  "entries": [
+   {
+    "id": "PPSA03142",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03144",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03141",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Renzo Racer",
+  "entries": [
+   {
+    "id": "PPSA02332",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02609",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Resident Evil Village",
+  "entries": [
+   {
+    "id": "PPSA01557",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01559",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01556",
+    "region": "Americas"
+   },
+   {
+    "id": "PPSA02998",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Returnal",
+  "entries": [
+   {
+    "id": "PPSA01285",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01287",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01286",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01284",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Returnal Original Soundtrack",
+  "entries": [
+   {
+    "id": "PPSA02478",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02481",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02479",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "RIDE 4",
+  "entries": [
+   {
+    "id": "PPSA01599",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02583",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01598",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Rift Racoon",
+  "entries": [
+   {
+    "id": "PPSA03303",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03304",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03302",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Rise of The Slime",
+  "entries": [
+   {
+    "id": "PPSA03419",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03911",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Rogue Company",
+  "entries": [
+   {
+    "id": "PPSA02092",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02091",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Ruinverse",
+  "entries": [
+   {
+    "id": "PPSA03284",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02920",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sable's Grimoire",
+  "entries": [
+   {
+    "id": "PPSA02976",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02977",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sackboy: A Big Adventure",
+  "entries": [
+   {
+    "id": "PPSA01288",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01289",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sackboy: A Big Adventure Bonus Content",
+  "entries": [
+   {
+    "id": "PPSA01814",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01816",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01813",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sackboy™: A Big Adventure",
+  "entries": [
+   {
+    "id": "PPSA01292",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01291",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Saints Row®: The Third™ Remastered",
+  "entries": [
+   {
+    "id": "PPSA02874",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02873",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sakura Succubus",
+  "entries": [
+   {
+    "id": "PPSA02968",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02970",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02969",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sakura Succubus 2",
+  "entries": [
+   {
+    "id": "PPSA03454",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03456",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA03455",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "SCARLET NEXUS",
+  "entries": [
+   {
+    "id": "PPSA02174",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01776",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02211",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "SCARLET NEXUS Demo Edition",
+  "entries": [
+   {
+    "id": "PPSA02064",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01930",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01785",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "SCARLET NEXUS PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA01929",
+    "region": "Asia"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Shakedown: Hawaii",
+  "entries": [
+   {
+    "id": "PPSA02515",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02514",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Share Factory Studio",
+  "entries": [
+   {
+    "id": "PPSA01280",
+    "region": "Int'l"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Shing!",
+  "entries": [
+   {
+    "id": "PPSA02806",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02957",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sir Lovelot",
+  "entries": [
+   {
+    "id": "PPSA03121",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03120",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Skatemasta Tcheco",
+  "entries": [
+   {
+    "id": "PPSA03649",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03650",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03648",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Skyland: Heart of the Mountain",
+  "entries": [
+   {
+    "id": "PPSA03163",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03164",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Spacebase Startopia",
+  "entries": [
+   {
+    "id": "PPSA02845",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02846",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sparkle 2",
+  "entries": [
+   {
+    "id": "PPSA02320",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02319",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sparkle Unleashed",
+  "entries": [
+   {
+    "id": "PPSA02322",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02321",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Spirit of the North: Enhanced Edition",
+  "entries": [
+   {
+    "id": "PPSA02305",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02306",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "STAR WARS Jedi: Fallen Order™",
+  "entries": [
+   {
+    "id": "PPSA02199",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02198",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "STELLATUM",
+  "entries": [
+   {
+    "id": "PPSA03553",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03552",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Subnautica",
+  "entries": [
+   {
+    "id": "PPSA02453",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03406",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02452",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Subnautica Below Zero",
+  "entries": [
+   {
+    "id": "PPSA02457",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02456",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sumatra: Fate of Yandi",
+  "entries": [
+   {
+    "id": "PPSA03007",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03009",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA03008",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Sun Wukong VS Robot",
+  "entries": [
+   {
+    "id": "PPSA04087",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA04088",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tales of ARISE PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA02296",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tales Of Arise Ultimate Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA02745",
+    "region": "Europe"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tales of Arise Ultimate Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA02794",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tales of ARISE：Ultimate Edition PS4 & PS5",
+  "entries": [
+   {
+    "id": "PPSA02796",
+    "region": "Asia"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Temtem",
+  "entries": [
+   {
+    "id": "PPSA01801",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01800",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tennis World Tour 2",
+  "entries": [
+   {
+    "id": "PPSA02019",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02020",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Terminator: Resistance Enhanced",
+  "entries": [
+   {
+    "id": "PPSA01763",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02476",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02475",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02474",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tesla Force",
+  "entries": [
+   {
+    "id": "PPSA02271",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02270",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tesla vs Lovecraft Game of the Year Edition",
+  "entries": [
+   {
+    "id": "PPSA02518",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02517",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "The Art of Destruction AllStars",
+  "entries": [
+   {
+    "id": "PPSA01920",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01919",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01918",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "The Art of Destruction AllStars™",
+  "entries": [
+   {
+    "id": "PPSA01917",
+    "region": "Europe"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "The Darkside Detective",
+  "entries": [
+   {
+    "id": "PPSA02567",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02566",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "The Darkside Detective: A Fumble in the Dark",
+  "entries": [
+   {
+    "id": "PPSA02565",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02564",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "The Pathless",
+  "entries": [
+   {
+    "id": "PPSA01826",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02104",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA01827",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01825",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "The Pedestrian",
+  "entries": [
+   {
+    "id": "PPSA02854",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02408",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "The Persistence Enhanced Edition",
+  "entries": [
+   {
+    "id": "PPSA01913",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01916",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "The Sinking City",
+  "entries": [
+   {
+    "id": "PPSA01772",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02921",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01771",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Thunderflash",
+  "entries": [
+   {
+    "id": "PPSA02924",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02925",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Title Name",
+  "entries": [
+   {
+    "id": "PPSA03123",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six® Siege",
+  "entries": [
+   {
+    "id": "PPSA01397",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01660",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01401",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01396",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
+  "entries": [
+   {
+    "id": "PPSA02177",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02178",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02176",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Trails and Traces: The Tomb of Thomas Tew",
+  "entries": [
+   {
+    "id": "PPSA03548",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03549",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tribes of Midgard Digital Deluxe",
+  "entries": [
+   {
+    "id": "PPSA02855",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01410",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Tubi",
+  "entries": [
+   {
+    "id": "PPSA01758",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Twin Robots: Ultimate Edition",
+  "entries": [
+   {
+    "id": "PPSA02469",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02539",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02470",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Twitch",
+  "entries": [
+   {
+    "id": "PPSA01665",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "UltraGoodness 2",
+  "entries": [
+   {
+    "id": "PPSA02931",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02933",
+    "region": "Asia"
+   },
+   {
+    "id": "PPSA02932",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Undead Horde",
+  "entries": [
+   {
+    "id": "PPSA02314",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02313",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "UniPlex",
+  "entries": [
+   {
+    "id": "PPSA03259",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03168",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "void tRrLM(); ++ver;",
+  "entries": [
+   {
+    "id": "PPSA02165",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "void tRrLM();++ //Void Terrarium++",
+  "entries": [
+   {
+    "id": "PPSA03042",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03061",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Vudu Movies and TV",
+  "entries": [
+   {
+    "id": "PPSA01868",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "War Theatre 2: Blood of Winter - Max Edition",
+  "entries": [
+   {
+    "id": "PPSA02941",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02915",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "War Theatre: Blood of Winter",
+  "entries": [
+   {
+    "id": "PPSA02942",
+    "region": "Asia"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "War Thunder",
+  "entries": [
+   {
+    "id": "PPSA01948",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02190",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01950",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Warframe",
+  "entries": [
+   {
+    "id": "PPSA01980",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02323",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01737",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Warhammer: Chaosbane Enhanced Edition",
+  "entries": [
+   {
+    "id": "PPSA01445",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01446",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Watch Dogs®: Legion",
+  "entries": [
+   {
+    "id": "PPSA01488",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01500",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01501",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01489",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA01487",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Werewolf: The Apocalypse - Earthblood",
+  "entries": [
+   {
+    "id": "PPSA02113",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02230",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA02114",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "World of Warships: Legends",
+  "entries": [
+   {
+    "id": "PPSA02218",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02219",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Worms Rumble",
+  "entries": [
+   {
+    "id": "PPSA01526",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01527",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "WRC 9 FIA World Rally Championship",
+  "entries": [
+   {
+    "id": "PPSA01363",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01364",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Wreckfest",
+  "entries": [
+   {
+    "id": "PPSA03309",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA03307",
+    "region": "Japan"
+   },
+   {
+    "id": "PPSA03308",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "Yakuza: Like A Dragon",
+  "entries": [
+   {
+    "id": "PPSA02384",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA02383",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "YouTube",
+  "entries": [
+   {
+    "id": "PPSA01651",
+    "region": "Europe"
+   },
+   {
+    "id": "PPSA01650",
+    "region": "Americas"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "アノダイン２：ダストへの帰還",
+  "entries": [
+   {
+    "id": "PPSA02702",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "クロスクラッシュ",
+  "entries": [
+   {
+    "id": "PPSA02719",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "サンダーフラッシュ",
+  "entries": [
+   {
+    "id": "PPSA02926",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "パラレル・トラブル　デジタルデラックスエディション　ボーナスコンテンツ",
+  "entries": [
+   {
+    "id": "PPSA03143",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "マニフォールド ガーデン",
+  "entries": [
+   {
+    "id": "PPSA03158",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "ライザのアトリエ２ ～失われた伝承と秘密の妖精～",
+  "entries": [
+   {
+    "id": "PPSA02097",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "リビッツ！ビッグ・アドベンチャー ボーナスコンテンツ",
+  "entries": [
+   {
+    "id": "PPSA01815",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "ルインバース",
+  "entries": [
+   {
+    "id": "PPSA03283",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "ワン･エスケープ 俺の脱獄作戦",
+  "entries": [
+   {
+    "id": "PPSA03241",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "萊莎的鍊金工房２ ～失落傳說與秘密妖精～",
+  "entries": [
+   {
+    "id": "PPSA02095",
+    "region": "Asia"
+   }
+  ],
+  "status": "untested"
+ },
+ {
+  "name": "龍が如く７　光と闇の行方　インターナショナル",
+  "entries": [
+   {
+    "id": "PPSA02690",
+    "region": "Japan"
+   }
+  ],
+  "status": "untested"
+ }
+]

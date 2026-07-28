@@ -1,0 +1,10 @@
+[
+ {
+  "name": "Minecraft",
+  "id": "PPSA17221",
+  "region": "Americas",
+  "status": "ingame",
+  "tested": "2026-07",
+  "notes": "Reaches the interactive main menu with working DualSense input, loads persisted worlds from save data, and renders in-world textured 3D terrain plus HUD at ~56 FPS. Recognizable, not correct: some render features (extra render targets, fast clears) are still skipped."
+ }
+]
