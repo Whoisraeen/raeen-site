@@ -48,13 +48,13 @@ export async function fetchReleases(): Promise<ReleasesState> {
 export function findInstaller(
   releases: Release[],
 ): { release: Release; asset: ReleaseAsset } | null {
-  const isInstaller = (n: string) => /setup.*\.exe$|-setup\.exe$/i.test(n);
+  // Strict: only a real setup executable qualifies — a bare portable .exe must
+  // not be presented as "the installer" (the auto-update promise would be wrong).
+  const isInstaller = (n: string) => /setup[^/]*\.exe$|-setup\.exe$/i.test(n);
   for (const stableOnly of [true, false]) {
     for (const r of releases) {
       if (stableOnly && r.prerelease) continue;
-      const asset =
-        r.assets.find((a) => isInstaller(a.name)) ??
-        (!stableOnly ? r.assets.find((a) => /\.exe$/i.test(a.name)) : undefined);
+      const asset = r.assets.find((a) => isInstaller(a.name));
       if (asset) return { release: r, asset };
     }
   }
